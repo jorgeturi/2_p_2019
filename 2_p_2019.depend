@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1700686361 source:c:\users\jorge\documents\github\2_p_2019\main.cpp
+	"ManejadorFiguras.h"
+	<limits>
+
+1700686857 c:\users\jorge\documents\github\2_p_2019\manejadorfiguras.h
+	<vector>
+	<cstdint>
+	<ostream>
+	<fstream>
+	"CFigura.h"
+
+1700686857 c:\users\jorge\documents\github\2_p_2019\cfigura.h
+	<iostream>
+	"CColor.h"
+
+1700685370 c:\users\jorge\documents\github\2_p_2019\ccolor.h
+	<ostream>
+
+1700686547 source:c:\users\jorge\documents\github\2_p_2019\manejadorfiguras.cpp
+	"ManejadorFiguras.h"
+	"CRectangulo.h"
+	"CCirculo.h"
+	"algorithm"
+
+1700686218 source:c:\users\jorge\documents\github\2_p_2019\cfigura.cpp
+	"CFigura.h"
+	"CColor.h"
+
+1700527434 c:\users\jorge\documents\github\2_p_2019\crectangulo.h
+	"CFigura.h"
+
+1700500654 c:\users\jorge\documents\github\2_p_2019\ccirculo.h
+	"CFigura.h"
+
+1700685995 source:c:\users\jorge\documents\github\2_p_2019\ccolor.cpp
+	"CColor.h"
+
+1700684005 source:c:\users\jorge\documents\github\2_p_2019\crectangulo.cpp
+	"CRectangulo.h"
+
+1700686361 source:c:\users\jorge\documents\github\2_p_2019\ccirculo.cpp
+	"CCirculo.h"
+	<math.h>
+

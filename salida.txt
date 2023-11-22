@@ -1,0 +1,38 @@
+Soy un Rectangulo de Base: 1.2Altura: 2.5y area 3
+BackColor: 
+componente rojo: 66
+componente verde: 10
+componente azul: 254
+componente alfa: 11
+Forecolor: 
+componente rojo: 66
+componente verde: 254
+componente azul: 11
+componente alfa: 10
+
+soy un Cirulo de radio: 2
+y area 6.28319
+BackColor: 
+componente rojo: 16
+componente verde: 255
+componente azul: 0
+componente alfa: 255
+Forecolor: 
+componente rojo: 16
+componente verde: 0
+componente azul: 255
+componente alfa: 255
+
+Soy un Rectangulo de Base: 0.7Altura: 0.3y area 0.21
+BackColor: 
+componente rojo: 0
+componente verde: 175
+componente azul: 3
+componente alfa: 250
+Forecolor: 
+componente rojo: 0
+componente verde: 175
+componente azul: 250
+componente alfa: 3
+
+Area total = 9.49319
